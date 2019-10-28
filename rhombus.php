@@ -39,7 +39,7 @@ for ( $i = round($sizeRhombus/2); $i > 1; $i-- )
 
     for ( $j = 0; $j < $countSpace; $j++ )
     {
-        echo $spaceChar;;
+        echo $spaceChar;
     }
 
     for ( $j = 0; $j < $countStars; $j++ )
@@ -49,7 +49,7 @@ for ( $i = round($sizeRhombus/2); $i > 1; $i-- )
 
     for ( $j = 0; $j < $countSpace; $j++ )
     {
-        echo $spaceChar;;
+        echo $spaceChar;
     }
 
     $countStars = $countStars - 2;
